@@ -1,0 +1,23 @@
+图片上传页面：
+http://dev.armlogic.cn//armlogic/showBack
+
+图片手动标注页面：
+http://dev.armlogic.cn/armlogic/drawRect
+
+Saas 后台：
+http://test.armlogic.cn:8680/home
+
+手动任务下发页面：
+http://test.armlogic.cn/bin/border/
+
+私服仓库 ：
+http://repo.armlogic.cn:8080
+
+Wiki ：
+http://wiki.armlogic.cn:8080
+
+Jira ：
+http://jira.armlogic.cn:8080
+
+Gitlab ：
+http://gitlab.armlogic.cn:8080
